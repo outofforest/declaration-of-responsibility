@@ -1,7 +1,8 @@
 # Declaration of responsibility
-I grant myself the right to refuse to execute any task if it might, in my sole opinion, endanger other human beings or their legit interests
 
-Signatures:
+Having regard to the fact that I am a free human being, you understand that by entering any business relationship with me playing a role of contractor or employee, you accept my inalienable, unrestrictable moral right I own by nature, to refuse to perform any task if it might, in my sole opinion, endanger other human beings or their legit interests. This right must not be canceled or limited by any statement of signed agreement.
+
+Signature:
 
 Wojciech Małota-Wójcik
 
@@ -11,6 +12,6 @@ I decided to publish this manifesto because I see more and more people comming t
 
 We are in charge of building the community of free IT engineers who declare their moral right to prevent horrible ideas from being implemented. We have a power to save the world from next crappy falling airplane or fund-loosing crypto exchange.
 
-If you agree and want to spread the idea, please fork this repository, put your signature under the declaration and add link to it on your LinkedIn profile or wherever you want to. You may also prepare a pull request with your name added under "Signatures:"
+If you agree and want to spread the idea, please fork this repository, put your signature under the declaration and add link to it on your LinkedIn profile or wherever you want to.
 
 The up-to-date version of declaration is available at [https://github.com/wojciech-malota-wojcik/declaration-of-responsibility](https://github.com/wojciech-malota-wojcik/declaration-of-responsibility)
