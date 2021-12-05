@@ -12,6 +12,6 @@ I decided to publish this manifesto because I see more and more people comming t
 
 We are in charge of building the community of free IT engineers who declare their moral right to prevent horrible ideas from being implemented. We have a power to save the world from next crappy falling airplane or fund-loosing crypto exchange.
 
-If you agree and want to spread the idea, please fork this repository, put your signature under the declaration and add link to it on your LinkedIn profile or wherever you want to.
+If you agree and want to spread the idea, please fork this repository, put your signature on it and add link to it on your LinkedIn profile or wherever you want to.
 
 The up-to-date version of declaration is available at [https://github.com/wojciech-malota-wojcik/declaration-of-responsibility](https://github.com/wojciech-malota-wojcik/declaration-of-responsibility)
