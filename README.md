@@ -14,4 +14,4 @@ We are in charge of building the community of free IT engineers who declare thei
 
 If you agree and want to spread the idea, please fork this repository, put your signature on it and add link to it on your LinkedIn profile or wherever you want to.
 
-The up-to-date version of declaration is available at [https://github.com/wojciech-malota-wojcik/declaration-of-responsibility](https://github.com/wojciech-malota-wojcik/declaration-of-responsibility)
+The up-to-date version of declaration is available at [https://github.com/outofforest/declaration-of-responsibility](https://github.com/wojciech-malota-wojcik/declaration-of-responsibility)
